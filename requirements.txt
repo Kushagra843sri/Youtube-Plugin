@@ -3,3 +3,4 @@ youtube-transcript-api
 gunicorn
 flask-cors
 openai
+python-dotenv
