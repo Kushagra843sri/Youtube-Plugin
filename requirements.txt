@@ -1,2 +1,5 @@
-fastapi
-uvicorn
+flask
+youtube-transcript-api
+gunicorn
+flask-cors
+openai
